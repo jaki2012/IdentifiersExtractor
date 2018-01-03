@@ -2,7 +2,7 @@
 
 An identifiers extractor supported by *web crawler* on *Github/SourceForge*.
 > Giving a set of repository urls, it returns certains identifiers qualify your custom requirements.
-> Maintained by [X-Lab](http://www.x-lab.ac/), SSE, Tongji university
+<br > Maintained by [X-Lab](http://www.x-lab.ac/), SSE, Tongji University
 
 ### Supported language:
 1. Java
