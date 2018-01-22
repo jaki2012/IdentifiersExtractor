@@ -43,3 +43,6 @@ composed of equal propotion of ```singlecase```,```camelcase```,```seperator```,
 8. Swift/Objective-C (250/250)
 
 with split type, sequence-labeling result.
+
+We randomly choose different software projects written in different programming language including Java, C++, Python, etc. 4000 identifiers are randomly selected by script in certain percentage among these projects. Then, to lower the risk of wrongly split these identifiers, almost 10 experienced students together split them. We try our best to keep it accurate from two aspects: On the one hand, we take the context information context in aid in addition to the general programming and english knowledge. On the other hand, we take the criteria that a split is considered to be a accurate split until at least 7 people make a common consensus on it. After the construction of the manual, we make the analysis on the distribution of these identifiers based on their lengths.
+
