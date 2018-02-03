@@ -1,15 +1,16 @@
 from file_module import getFile
 from c_module import getCIdentifiers
+from cpp_module import getCppIdentifiers
 import os
 import sys
 import re
 from antlr4 import *
 import codecs
 
-user = 'wenjun1055'
-repo = 'c'
+user = 'AtsushiSakai'
+repo = 'cpp'
 branch = 'master'
-type = 'c'
+type = 'cpp'
 
 getFile.get_file(user, repo, branch, type)
 file_path = os.path.join(user,repo,type)
@@ -25,10 +26,10 @@ for file in file_list:
     fh.write(f)
     fh.close()
     f = FileStream(path)
-    iden_list_f = getCIdentifiers.get_c_identifiers_list(f)
+    iden_list_f = getCppIdentifiers.get_c_identifiers_list(f)
     iden_list = dict(iden_list, **iden_list_f)
 sep = '\n'
-fl=open('iden_list.txt', 'w')
+fl=open('iden_list_cpp.txt', 'w')
 fl.write(sep.join(iden_list.keys()))
 fl.close()
 print(iden_list.keys())
