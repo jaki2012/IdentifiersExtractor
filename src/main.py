@@ -1,16 +1,18 @@
 from file_module import getFile
 from c_module import getCIdentifiers
 from cpp_module import getCppIdentifiers
+#from cs_module import  getCSIdentifiers
+from java_module import getJavaIdentifiers
 import os
 import sys
 import re
 from antlr4 import *
 import codecs
 
-user = 'AtsushiSakai'
-repo = 'cpp'
+user = 'kousen'
+repo = 'java8'
 branch = 'master'
-type = 'cpp'
+type = 'java'
 
 getFile.get_file(user, repo, branch, type)
 file_path = os.path.join(user,repo,type)
@@ -26,10 +28,10 @@ for file in file_list:
     fh.write(f)
     fh.close()
     f = FileStream(path)
-    iden_list_f = getCppIdentifiers.get_c_identifiers_list(f)
+    iden_list_f = getJavaIdentifiers.get_java_identifiers_list(f)
     iden_list = dict(iden_list, **iden_list_f)
 sep = '\n'
-fl=open('iden_list_cpp.txt', 'w')
+fl=open('iden_list_java.txt', 'w')
 fl.write(sep.join(iden_list.keys()))
 fl.close()
 print(iden_list.keys())

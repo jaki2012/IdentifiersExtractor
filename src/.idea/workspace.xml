@@ -14,63 +14,10 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPP14.g4" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpp_module/CPP14.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="15" />
+            <state relative-caret-position="-94">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
-                <element signature="e#0#1314#0" expanded="true" />
-                <element signature="e#0#28248#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPP14Visitor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Visitor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CPP14Parser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="14710" column="13" lean-forward="false" selection-start-line="14710" selection-start-column="13" selection-end-line="14710" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c_module/CParser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50270">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getCIdentifiers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c_module/getCIdentifiers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="21" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +26,8 @@
       <file leaf-file-name="getCppIdentifiers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cpp_module/getCppIdentifiers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="345">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -88,8 +35,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CVisitor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c_module/CVisitor.py">
+      <file leaf-file-name="Java8.g4" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_module/Java8.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="232" column="5" lean-forward="false" selection-start-line="232" selection-start-column="5" selection-end-line="232" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#31563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java8Visitor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1219">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getJavaIdentifiers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Java8Lexer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_module/Java8Lexer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="742" column="5" lean-forward="false" selection-start-line="742" selection-start-column="5" selection-end-line="742" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CPP14Visitor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Visitor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
@@ -114,13 +105,29 @@
       <find>print</find>
       <find>visitTy</find>
       <find>CompilationUnit</find>
-      <find>EOF</find>
       <find>unq</find>
       <find>False</find>
       <find>CPP14Par</find>
+      <find>visitIden</find>
+      <find>visitQualifiedNam</find>
+      <find>visitVariableDeclaratorld</find>
+      <find>visitVariableDec</find>
+      <find>visitcreatedName</find>
+      <find>visitclassOr</find>
+      <find>visitPrimary</find>
+      <find>visitmethod</find>
+      <find>EOF</find>
+      <find>visitPa</find>
+      <find>visitUnannClassType</find>
+      <find>visitClassType</find>
+      <find>visitVa</find>
+      <find>visitTypeN</find>
+      <find>visitEx</find>
+      <find>visitMeth</find>
     </findStrings>
     <dirStrings>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module</dir>
+      <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -130,22 +137,29 @@
         <option value="$PROJECT_DIR$/file_module/getFile.py" />
         <option value="$PROJECT_DIR$/C/CVisitor.py" />
         <option value="$PROJECT_DIR$/c_module/main.py" />
-        <option value="$PROJECT_DIR$/c_module/CVisitor.py" />
         <option value="$PROJECT_DIR$/wenjun1055/c/c/4.2.c" />
         <option value="$PROJECT_DIR$/wenjun1055/c/c/9_test.c" />
         <option value="$PROJECT_DIR$/c_module/getCIdentifiers.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/cpp_module/CPP14Listener.py" />
         <option value="$PROJECT_DIR$/cpp_module/CPP14.g4" />
         <option value="$PROJECT_DIR$/cpp_module/CPP14Visitor.py" />
         <option value="$PROJECT_DIR$/cpp_module/CPP14Parser.py" />
         <option value="$PROJECT_DIR$/cpp_module/getCppIdentifiers.py" />
+        <option value="$PROJECT_DIR$/c_module/CVisitor.py" />
+        <option value="$PROJECT_DIR$/cs_module/CSharpParserVisitor.py" />
+        <option value="$PROJECT_DIR$/cs_module/CSharpLexer.py" />
+        <option value="$PROJECT_DIR$/cs_module/getCSIdentifiers.py" />
+        <option value="$PROJECT_DIR$/java_module/JavaParserVisitor.py" />
+        <option value="$PROJECT_DIR$/java_module/getJavaIdentifiers.py" />
+        <option value="$PROJECT_DIR$/java_module/Java8Lexer.py" />
+        <option value="$PROJECT_DIR$/java_module/Java8Visitor.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-54" />
-    <option name="y" value="104" />
+    <option name="x" value="98" />
+    <option name="y" value="177" />
     <option name="width" value="1638" />
     <option name="height" value="855" />
   </component>
@@ -164,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,29 +189,23 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="c_module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cpp_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cs_module" type="462c0819:PsiDirectoryNode" />
+              <item name="java_module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cs_module" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java_module" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/auto-gen" value="false" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-visitor" value="true" />
@@ -207,13 +216,39 @@
     <property name="$PROJECT_DIR$/cs_module/CSharpParser.g4::/language" value="Python3" />
     <property name="$PROJECT_DIR$/cs_module/CSharpParser.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/cs_module/CSharpParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpLexer.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpLexer.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cs_module" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpLexer.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpLexer.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cs_module" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/cs_module/CSharpLexer.g4::/language" value="Python2" />
+    <property name="$PROJECT_DIR$/java_module/JavaLexer.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/java_module/JavaLexer.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
+    <property name="$PROJECT_DIR$/java_module/JavaLexer.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/java_module/JavaLexer.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/java_module/JavaLexer.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/java_module/JavaParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/java_module/JavaParser.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
+    <property name="$PROJECT_DIR$/java_module/JavaParser.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/java_module/JavaParser.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/java_module/JavaParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/java_module/Java8.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/java_module/Java8.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
+    <property name="$PROJECT_DIR$/java_module/Java8.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/java_module/Java8.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/java_module/Java8.g4::/gen-visitor" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\c_module" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\c_module" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -288,22 +323,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-54" y="104" width="1638" height="855" extended-state="1" />
+    <frame x="98" y="177" width="1638" height="855" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5805515" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19160998" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6937591" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5936139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20382166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.06122449" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3197452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47732428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48412699" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39908257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -317,15 +352,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/c_module/CVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -333,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -343,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4002">
           <caret line="174" column="52" lean-forward="false" selection-start-line="174" selection-start-column="52" selection-end-line="174" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,9 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,9 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -378,7 +414,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -387,7 +425,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -405,9 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="523" column="11" lean-forward="false" selection-start-line="523" selection-start-column="11" selection-end-line="523" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#19702#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -422,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="334" column="38" lean-forward="false" selection-start-line="334" selection-start-column="38" selection-end-line="334" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -430,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,19 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c_module/getCIdentifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,19 +530,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_module/getCIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/c_module/CParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50270">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_module/main.c" />
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="61" column="17" lean-forward="false" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpLexer.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/c_module/CVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7199">
+          <caret line="313" column="69" lean-forward="false" selection-start-line="313" selection-start-column="69" selection-end-line="313" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#24119#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpLexer.java" />
+    <entry file="file://$PROJECT_DIR$/cs_module/getCSIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpLexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="1441" column="0" lean-forward="false" selection-start-line="1441" selection-start-column="0" selection-end-line="1441" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs_module/CSharpParserVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/JavaParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/JavaParserVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="1394" column="26" lean-forward="false" selection-start-line="1394" selection-start-column="26" selection-end-line="1394" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/tree/Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_module/getCppIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/Java8Lexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="742" column="5" lean-forward="false" selection-start-line="742" selection-start-column="5" selection-end-line="742" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Visitor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
@@ -529,48 +676,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Parser.py">
+    <entry file="file://$PROJECT_DIR$/java_module/Java8.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14710" column="13" lean-forward="false" selection-start-line="14710" selection-start-column="13" selection-end-line="14710" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="15" />
+        <state relative-caret-position="250">
+          <caret line="232" column="5" lean-forward="false" selection-start-line="232" selection-start-column="5" selection-end-line="232" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1314#0" expanded="true" />
-            <element signature="e#0#28248#0" expanded="true" />
+            <element signature="e#0#31563#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Visitor.py">
+    <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="-1219">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/getCppIdentifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-94">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
