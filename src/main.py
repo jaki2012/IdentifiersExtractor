@@ -6,16 +6,17 @@ from java_module import getJavaIdentifiers
 #from js_module import getJavaScriptIdentifiers
 #from go_module import getGoIdentifiers
 from py_module import getPython3Identifiers
+from php_module import getPHPIdentifiers
 import os
 import sys
 import re
 from antlr4 import *
 import codecs
 
-user = 'michaelliao'
-repo = 'learn-python3'
+user = 'antlr'
+repo = 'grammars-v4'
 branch = 'master'
-type = 'py'
+type = 'php'
 
 getFile.get_file(user, repo, branch, type)
 file_path = os.path.join(user,repo,type)
@@ -31,11 +32,11 @@ for file in file_list:
     fh.write(f)
     fh.close()
     f = FileStream(path)
-    iden_list_f = getPython3Identifiers.get_py3_identifiers_list(f)
+    iden_list_f = getPHPIdentifiers.get_php_identifiers_list(f)
     print(iden_list_f.keys())
     iden_list = dict(iden_list, **iden_list_f)
 sep = '\n'
-fl=open('iden_list_py3.txt', 'w')
+fl=open('iden_list_php.txt', 'w')
 fl.write(sep.join(iden_list.keys()))
 fl.close()
 print(iden_list.keys())

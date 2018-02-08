@@ -14,8 +14,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="736">
+              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -23,23 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getGoIdentifiers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/go_module/getGoIdentifiers.py">
+      <file leaf-file-name="PhpParser.g4" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php_module/PhpParser.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="12" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#19310#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python3Visitor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python3Visitor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py_module/Python3Visitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="344" column="37" lean-forward="false" selection-start-line="344" selection-start-column="37" selection-end-line="344" selection-end-column="37" />
+            <state relative-caret-position="338">
+              <caret line="345" column="62" lean-forward="false" selection-start-line="344" selection-start-column="16" selection-end-line="345" selection-end-column="62" />
               <folding>
                 <element signature="e#100#109#0" expanded="true" />
               </folding>
@@ -47,61 +47,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RuleContext.py" pinned="false" current-in-tab="false">
-        <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/RuleContext.py">
+      <file leaf-file-name="PhpParserVisitor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php_module/PhpParserVisitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="-138">
+              <caret line="743" column="58" lean-forward="false" selection-start-line="743" selection-start-column="58" selection-end-line="743" selection-end-column="58" />
+              <folding>
+                <element signature="e#103#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getJavaIdentifiers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/tree/Tree.py">
+      <file leaf-file-name="getPHPIdentifiers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php_module/getPHPIdentifiers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Token.py" pinned="false" current-in-tab="false">
-        <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/Token.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputStream.py" pinned="false" current-in-tab="false">
-        <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/InputStream.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParserRuleContext.py" pinned="false" current-in-tab="false">
-        <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/ParserRuleContext.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getPython3Identifiers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py_module/getPython3Identifiers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="276">
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -130,8 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>visitIden</find>
-      <find>visitQualifiedNam</find>
       <find>visitVariableDeclaratorld</find>
       <find>visitVariableDec</find>
       <find>visitcreatedName</find>
@@ -160,6 +130,8 @@
       <find>visitAtom</find>
       <find>visitDo</find>
       <find>getTex</find>
+      <find>visitIde</find>
+      <find>visitKe</find>
     </findStrings>
     <dirStrings>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module</dir>
@@ -167,6 +139,7 @@
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\js_module</dir>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\go_module</dir>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\py_module</dir>
+      <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -199,8 +172,11 @@
         <option value="$PROJECT_DIR$/go_module/getGoIdentifiers.py" />
         <option value="$PROJECT_DIR$/go_module/GolangParser.py" />
         <option value="$PROJECT_DIR$/py_module/getPython3Identifiers.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/py_module/Python3Visitor.py" />
+        <option value="$PROJECT_DIR$/php_module/getPHPIdentifiers.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/php_module/PhpLexer.py" />
+        <option value="$PROJECT_DIR$/php_module/PhpParserVisitor.py" />
       </list>
     </option>
   </component>
@@ -226,6 +202,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,18 +218,22 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="php_module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="py_module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/py_module" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/php_module" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/auto-gen" value="false" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-visitor" value="true" />
@@ -308,17 +289,27 @@
     <property name="$PROJECT_DIR$/py_module/Python3.g4::/language" value="Python3" />
     <property name="$PROJECT_DIR$/py_module/Python3.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/py_module/Python3.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/php_module/PhpParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/php_module/PhpParser.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module" />
+    <property name="$PROJECT_DIR$/php_module/PhpParser.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/php_module/PhpParser.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/php_module/PhpParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module" />
+    <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/gen-visitor" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\py_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\go_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\js_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\c_module" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -400,18 +391,18 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19160998" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4489796" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44671202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38662133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16684492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16898395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42063493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4659864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38208616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38208616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -438,34 +429,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wenjun1055/c/c/4.2.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenjun1055/c/c/9_test.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenjun1055/c/c/bitree.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1311">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file_module/getFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -568,21 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java_module/Java8Lexer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16997">
           <caret line="742" column="5" lean-forward="false" selection-start-line="742" selection-start-column="5" selection-end-line="742" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="15" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,9 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#12533#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,9 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13363">
           <caret line="593" column="3" lean-forward="false" selection-start-line="593" selection-start-column="3" selection-end-line="593" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-115">
           <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,9 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#31797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,6 +657,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="5843" column="31" lean-forward="false" selection-start-line="5843" selection-start-column="31" selection-end-line="5843" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_module/getPython3Identifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/InputStream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1771">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/Token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2714">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/tree/Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/ParserRuleContext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3841">
+          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/RuleContext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_module/PhpParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_module/getPHPIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_module/PhpLexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="1535" column="17" lean-forward="false" selection-start-line="1535" selection-start-column="17" selection-end-line="1535" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -737,68 +764,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/py_module/getPython3Identifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/InputStream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/Token.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/tree/Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/RuleContext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://S:/Anaconda/envs/python3/Lib/site-packages/antlr4/ParserRuleContext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="736">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -807,10 +776,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py_module/Python3Visitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="344" column="37" lean-forward="false" selection-start-line="344" selection-start-column="37" selection-end-line="344" selection-end-column="37" />
+        <state relative-caret-position="338">
+          <caret line="345" column="62" lean-forward="false" selection-start-line="344" selection-start-column="16" selection-end-line="345" selection-end-column="62" />
           <folding>
             <element signature="e#100#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_module/PhpParserVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="743" column="58" lean-forward="false" selection-start-line="743" selection-start-column="58" selection-end-line="743" selection-end-column="58" />
+          <folding>
+            <element signature="e#103#112#0" expanded="true" />
           </folding>
         </state>
       </provider>
