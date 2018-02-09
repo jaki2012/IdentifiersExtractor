@@ -7,6 +7,8 @@ from java_module import getJavaIdentifiers
 #from go_module import getGoIdentifiers
 from py_module import getPython3Identifiers
 from php_module import getPHPIdentifiers
+#from swift_module import getSwift3Identifiers
+from objc_module import getObjCIdentifiers
 import os
 import sys
 import re
@@ -16,7 +18,7 @@ import codecs
 user = 'antlr'
 repo = 'grammars-v4'
 branch = 'master'
-type = 'php'
+type = 'm'
 
 getFile.get_file(user, repo, branch, type)
 file_path = os.path.join(user,repo,type)
@@ -32,11 +34,11 @@ for file in file_list:
     fh.write(f)
     fh.close()
     f = FileStream(path)
-    iden_list_f = getPHPIdentifiers.get_php_identifiers_list(f)
+    iden_list_f = getObjCIdentifiers.get_objc_identifiers_list(f)
     print(iden_list_f.keys())
     iden_list = dict(iden_list, **iden_list_f)
 sep = '\n'
-fl=open('iden_list_php.txt', 'w')
+fl=open('iden_list_objc.txt', 'w')
 fl.write(sep.join(iden_list.keys()))
 fl.close()
 print(iden_list.keys())

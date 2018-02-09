@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+            <state relative-caret-position="575">
+              <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -23,57 +23,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhpParser.g4" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php_module/PhpParser.g4">
+      <file leaf-file-name="Swift3Visitor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swift_module/Swift3Visitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="253">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <element signature="e#0#19310#0" expanded="true" />
+                <element signature="e#102#111#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python3Visitor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py_module/Python3Visitor.py">
+      <file leaf-file-name="getSwift3Identifiers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swift_module/getSwift3Identifiers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="345" column="62" lean-forward="false" selection-start-line="344" selection-start-column="16" selection-end-line="345" selection-end-column="62" />
+            <state relative-caret-position="184">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <element signature="e#100#109#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhpParserVisitor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php_module/PhpParserVisitor.py">
+      <file leaf-file-name="Swift3Parser.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swift_module/Swift3Parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-138">
-              <caret line="743" column="58" lean-forward="false" selection-start-line="743" selection-start-column="58" selection-end-line="743" selection-end-column="58" />
+            <state relative-caret-position="1748">
+              <caret line="2591" column="12" lean-forward="false" selection-start-line="2591" selection-start-column="12" selection-end-line="2591" selection-end-column="12" />
               <folding>
-                <element signature="e#103#112#0" expanded="true" />
+                <element signature="e#120#140#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getJavaIdentifiers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java_module/getJavaIdentifiers.py">
+      <file leaf-file-name="ObjectiveCParser.g4" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objc_module/ObjectiveCParser.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="115">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#16790#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getPHPIdentifiers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php_module/getPHPIdentifiers.py">
+      <file leaf-file-name="ObjectiveCParserVisitor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objc_module/ObjectiveCParserVisitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="253">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#111#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getObjCIdentifiers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objc_module/getObjCIdentifiers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -84,8 +98,8 @@
       <file leaf-file-name="Java8Visitor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="328">
+              <caret line="64" column="57" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="64" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -102,9 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>visitVariableDeclaratorld</find>
-      <find>visitVariableDec</find>
-      <find>visitcreatedName</find>
       <find>visitclassOr</find>
       <find>visitPrimary</find>
       <find>visitmethod</find>
@@ -130,8 +141,11 @@
       <find>visitAtom</find>
       <find>visitDo</find>
       <find>getTex</find>
-      <find>visitIde</find>
       <find>visitKe</find>
+      <find>visitDecla</find>
+      <find>visitLa</find>
+      <find>visitDec</find>
+      <find>visitIde</find>
     </findStrings>
     <dirStrings>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module</dir>
@@ -140,6 +154,8 @@
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\go_module</dir>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\py_module</dir>
       <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module</dir>
+      <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\swift_module</dir>
+      <dir>Z:\IdentifiersExtractor\IdentifiersExtractor\src\objc_module</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -174,9 +190,14 @@
         <option value="$PROJECT_DIR$/py_module/getPython3Identifiers.py" />
         <option value="$PROJECT_DIR$/py_module/Python3Visitor.py" />
         <option value="$PROJECT_DIR$/php_module/getPHPIdentifiers.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/php_module/PhpLexer.py" />
         <option value="$PROJECT_DIR$/php_module/PhpParserVisitor.py" />
+        <option value="$PROJECT_DIR$/swift_module/Swift3Visitor.py" />
+        <option value="$PROJECT_DIR$/swift_module/getSwift3Identifiers.py" />
+        <option value="$PROJECT_DIR$/swift_module/Swift3Parser.py" />
+        <option value="$PROJECT_DIR$/objc_module/ObjectiveCParserVisitor.py" />
+        <option value="$PROJECT_DIR$/objc_module/getObjCIdentifiers.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -201,8 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,12 +239,12 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="php_module" type="462c0819:PsiDirectoryNode" />
+              <item name="objc_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="py_module" type="462c0819:PsiDirectoryNode" />
+              <item name="swift_module" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +254,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/php_module" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/objc_module" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/auto-gen" value="false" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/cpp_module/CPP14.g4::/gen-visitor" value="true" />
@@ -299,17 +320,37 @@
     <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/language" value="Python3" />
     <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/php_module/PhpLexer.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/swift_module/Swift3.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/swift_module/Swift3.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\swift_module" />
+    <property name="$PROJECT_DIR$/swift_module/Swift3.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/swift_module/Swift3.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/swift_module/Swift3.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCLexer.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCLexer.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\objc_module" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCLexer.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCLexer.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCLexer.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCParser.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\objc_module" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCParser.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCParser.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCParser.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCPreprocessorParser.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCPreprocessorParser.g4::/output-dir" value="Z:\IdentifiersExtractor\IdentifiersExtractor\src\objc_module" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCPreprocessorParser.g4::/language" value="Python3" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCPreprocessorParser.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/objc_module/ObjectiveCPreprocessorParser.g4::/gen-visitor" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\objc_module" />
+      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\swift_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\php_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\py_module" />
       <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\go_module" />
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\js_module" />
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\java_module" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="Z:\IdentifiersExtractor\IdentifiersExtractor\src\cpp_module" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -393,16 +434,16 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4489796" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.56575966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38662133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16898395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24438503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4659864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35827664" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38208616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -423,55 +464,17 @@
           <line>339</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swift_module/Swift3Parser.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/file_module/getFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14Listener.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14.tokens">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpp_module/CPP14.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c_module/getCIdentifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c_module/CParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c_module/main.c" />
     <entry file="file://$PROJECT_DIR$/cs_module/CSharpPreprocessorParser.g4">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1058">
@@ -619,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="719" column="53" lean-forward="true" selection-start-line="719" selection-start-column="53" selection-end-line="719" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1771">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2714">
           <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3841">
           <caret line="170" column="0" lean-forward="false" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,30 +704,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php_module/PhpParser.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="207">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="12" />
           <folding>
-            <element signature="e#0#19310#0" expanded="true" />
+            <element signature="e#0#19310#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/php_module/getPHPIdentifiers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="138">
           <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -742,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="1535" column="17" lean-forward="false" selection-start-line="1535" selection-start-column="17" selection-end-line="1535" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,19 +743,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/java_module/Java8Visitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="328">
+          <caret line="64" column="57" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="64" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -784,12 +764,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/swift_module/getSwift3Identifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift_module/Swift3Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="2591" column="12" lean-forward="false" selection-start-line="2591" selection-start-column="12" selection-end-line="2591" selection-end-column="12" />
+          <folding>
+            <element signature="e#120#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift_module/Swift3Visitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#102#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objc_module/ObjectiveCParserVisitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#111#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objc_module/ObjectiveCParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#16790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objc_module/getObjCIdentifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swift_module/Swift3.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#48570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/php_module/PhpParserVisitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="743" column="58" lean-forward="false" selection-start-line="743" selection-start-column="58" selection-end-line="743" selection-end-column="58" />
+        <state relative-caret-position="253">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#103#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
