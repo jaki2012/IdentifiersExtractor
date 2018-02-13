@@ -1,33 +1,110 @@
 # IdentifiersExtractor
 
 An identifiers extractor supported by *web crawler* on *Github/SourceForge*.
-> Giving a set of repository urls, it returns certains identifiers qualify your custom requirements.
-<br > Maintained by [X-Lab](http://www.x-lab.ac/), SSE, Tongji University
+> Giving a repository, it returns the identifiers extracted from the code files which qualify your custom requirements.
+> <br > Maintained by [X-Lab](http://www.x-lab.ac/), SSE, Tongji University
 
 ### Supported language:
-1. Java
-2. C/C++/C#
-3. JavaScript
-4. Go
-5. Python
-6. PHP
-7. Perl
-8. Swift/Objective-C
+1. C
+
+2. C++
+
+3. Java8
+
+4. Python3
+
+5. PHP
+
+6. Objective-C
+
+   ​
 
 ### Prerequisites:
-```Python version >= 3.5```
+1. Python version >= 3.5
+
+2. antlr4 (http://www.antlr.org/)
+
+   ##### Install
+
+   `pip3 install antlr4-python3-runtime`
+
+   ​
 
 ### Usage:
-```python identifier_extractor.py [options]```
+```python main.py [options]```
 
 ```options``` include:
-* --*lang*: specify the identifier language
-* --*type*: specify the identifier type from one of the ```singlecase```,```camelcase```,```seperator```,```containdigits```,```mixed```
-* --*urls*: specify the txt file containing the repository urls
+
+* --*owner*: specify the owner of the repository on github
+* --*repository*: specify the name of the repository
+* --*branch*: specify the branch of the project in the repository
+* --*file-type*: specify the code files' type from one of the `c`, `cpp`, `java`, `py`, `php`, `m`
+* --*file-name*: specify the name of the file to print identifiers, which should end up with `.txt`
+
+
+* --*identifier-type*: specify the identifier type from one of the `singlecase`, `camelcase`, `seperator`, `containdigits`, `mixed`
+  * `singlecase` which contains only lower case, like *identifiersextractor.*
+  * `camelcase`  which may contain lower case and upper case, like *identifiersExtractor.*
+  * `separator` which may contain lower case and separators, like *identifiers_extractor.*
+  * `containdigits` which is like 'camelcase' with digits or 'separator' with digits, like *identifiersExtractor2* and *identifiers_extractor2*.
+  * `mixed` default option, which may contain lower case, upper case, separators and digits.
 * --*minlength*: specify the min length of an identifier, default to **2**
 * --*maxlength*: specify the min length of an identifier, default to **25**
 * --*number*: specify the number of identifiers to extracted
-* --*mode*: only be valid when the parameter *number* is set. Be one of the ```greedy``` or ```random```, default to be **random**, which means that it would randomly select them after all the identifiers are extracted.
+
+
+
+### Examples
+
+##### c
+
+```
+python main.py --owner=Mzzopublic --repository=C --branch=master --file-type=c --file-name=test_c.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved in *test_c.txt*
+
+##### cpp
+
+```
+python main.py --owner=exercism --repository=cpp --branch=master --file-type=cpp --file-name=test_cpp.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved in *test_cpp.txt*
+
+##### java
+
+```
+python main.py --owner=winterbe --repository=java8-tutorial --branch=master --file-type=java --file-name=test_java.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved  in *test_java.txt*
+
+##### py
+
+```
+python main.py --owner=michaelliao --repository=learn-python3 --branch=master --file-type=py --file-name=test_py.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved  in *test_py.txt*
+
+##### php
+
+```
+python main.py --owner=exercism --repository=php --branch=master --file-type=php --file-name=test_php.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved  in *test_php.txt*
+
+##### m
+
+```
+python main.py --owner=exercism --repository=objective-c --branch=master --file-type=m --file-name=test_m.txt --identifier-type=mixed --minlength=2 --maxlength=25 --number=500
+```
+
+The identifiers are saved  in *test_m.txt*
+
+
 
 ### Task:
 ##### To manually establish a oracle dataset for software engineering subtopic - *Identifier Splitting*

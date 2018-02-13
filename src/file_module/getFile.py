@@ -15,9 +15,13 @@ def classify(path, pattern, type_dir):
 
 def get_file(user, repo, branch, type):
     tmp_dir = './'+ repo + '-' + branch
+    tmp_dir = re.sub('[\']', '',tmp_dir)
     repo_dir = './'+ os.path.join(user, repo)
+    repo_dir = re.sub('[\']', '', repo_dir)
     type_dir = './'+ os.path.join(user, repo, type)
+    type_dir = re.sub('[\']', '', type_dir)
     zip_path = './'+ os.path.join(user, repo + '.zip')
+    zip_path = re.sub('[\']', '', zip_path)
 
     if not os.path.exists(user):
         os.mkdir(user)
@@ -29,7 +33,7 @@ def get_file(user, repo, branch, type):
         os.mkdir(type_dir)
 
     if not os.path.exists(zip_path):
-        with request.urlopen('https://github.com/' + user + '/' + repo + '/archive/' + branch + '.zip') as download:
+        with request.urlopen(re.sub('[\']', '','https://github.com/' + user + '/' + repo + '/archive/' + branch + '.zip')) as download:
             with open(zip_path, 'wb') as outfile:
                 outfile.write(download.read())
 

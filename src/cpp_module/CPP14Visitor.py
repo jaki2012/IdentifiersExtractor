@@ -723,6 +723,8 @@ class CPP14Visitor(ParseTreeVisitor):
 
     # Visit a parse tree produced by CPP14Parser#classname.
     def visitClassname(self, ctx:CPP14Parser.ClassnameContext):
+        if ctx.Identifier() is not None:
+            self.iden_dic[ctx.Identifier().__str__()] = 1
         return self.visitChildren(ctx)
 
 
