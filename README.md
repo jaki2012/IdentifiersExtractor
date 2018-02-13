@@ -106,7 +106,20 @@ The identifiers are saved  in *test_m.txt*
 
 
 
-### Task:
+### Things to do:
+
+* support more languages:
+
+  * `cs`
+  * `js`
+  * `go`
+  * `pl`
+  * `swift`
+
+  ​
+
+### Task
+
 ##### To manually establish a oracle dataset for software engineering subtopic - *Identifier Splitting*
 ---
 composed of equal propotion of ```singlecase```,```camelcase```,```seperator```,```containdigits```,```mixed```
